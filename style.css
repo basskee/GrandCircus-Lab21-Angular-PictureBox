@@ -104,6 +104,9 @@ ul.list a{
 	margin-top: 40px;
 }
 
+.center-grey {
+  background: #f2f2f2;
+}
 
 .slide.ng-hide-add, .slide.ng-hide-remove {
   -webkit-transition: all linear 0.5s;
